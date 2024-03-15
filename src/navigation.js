@@ -8,7 +8,7 @@ export const headerData = {
     { text: 'Blog', href: getPermalink('/blog') },
     { text: 'Contact Us', href: getPermalink('/contact') },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Download', href: '', target: '_blank' }],
 };
 
 
